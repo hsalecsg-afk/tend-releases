@@ -10,11 +10,11 @@ Tend는 업무 후속 관리를 위한 데스크톱 앱입니다.
 
 | 운영체제 | 아키텍처 | 설치 파일 |
 | --- | --- | --- |
-| macOS | Apple Silicon | `Tend_0.9.0_aarch64.dmg` |
-| macOS | Intel | `Tend_0.9.0_x64.dmg` |
-| Windows | x64 | `Tend_0.9.0_x64-setup.exe` |
+| macOS | Apple Silicon | `Tend_0.10.0_aarch64.dmg` |
+| macOS | Intel | `Tend_0.10.0_x64.dmg` |
+| Windows | x64 | `Tend_0.10.0_x64-setup.exe` |
 
-현재 최신 버전은 [Tend v0.9.0](https://github.com/hsalecsg-afk/tend-releases/releases/tag/v0.9.0)입니다.
+현재 최신 버전은 [Tend v0.10.0](https://github.com/hsalecsg-afk/tend-releases/releases/tag/v0.10.0)입니다.
 
 ## 설치 방법
 
@@ -26,7 +26,7 @@ Tend는 업무 후속 관리를 위한 데스크톱 앱입니다.
 
 ### Windows
 
-1. `Tend_0.9.0_x64-setup.exe`를 다운로드합니다.
+1. `Tend_0.10.0_x64-setup.exe`를 다운로드합니다.
 2. 설치 파일을 실행합니다.
 3. Windows SmartScreen 경고가 표시되면 `추가 정보`를 선택한 뒤 `실행`을 클릭합니다.
 
@@ -39,7 +39,7 @@ Tend는 GitHub Releases를 통해 자동 업데이트를 지원합니다.
 ## 릴리스
 
 - [최신 릴리스](https://github.com/hsalecsg-afk/tend-releases/releases)
-- [Tend v0.9.0](https://github.com/hsalecsg-afk/tend-releases/releases/tag/v0.9.0)
+- [Tend v0.10.0](https://github.com/hsalecsg-afk/tend-releases/releases/tag/v0.10.0)
 
 ## 문의 및 버그 제보
 
